@@ -5,3 +5,7 @@
 4) Change Mentor for Student (PUT)]: Assign a new mentor to a student or modify an existing mentor-student relationship. Endpoint: /schedule/assign-mentor/:studentId
 5) Get All Students for a Mentor (GET) : Retrieve a comprehensive list of all students under the guidance of a specific mentor. Endpoint: /schedule/mentor-students/:mentorId
 6) Show previously assigned mentor for a particular student (GET) :Access the historical data of a student's previously assigned mentor. Endpoint: /schedule/student-mentor/:studentId
+
+# Postman Link
+
+https://api.postman.com/collections/32502504-334657cb-0002-4097-a63f-02a65d9811b2?access_key=PMAT-01HN7D7VGNB61TRJAB4YMD2PWZ
