@@ -1,4 +1,4 @@
-**Mentor and Student Assigning with Database**
+#Mentor and Student Assigning with Database#
 1) Create Mentor (POST) :Establish a new mentor profile. Endpoint: /schedule/mentors
 2) Create Student (POST) :Register a new student. Endpoint: /schedule/students
 3) Assign Student to Mentor (PUT):Link a student to a mentor, fostering a learning relationship. Endpoint: /schedule/assign-mentor/assign/:studentId
